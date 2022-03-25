@@ -1,6 +1,6 @@
 import os
 import discord
-from dotenv import load_dotenv
+#from dotenv import load_dotenv
 
 #loading the bot's token
 load_dotenv()
