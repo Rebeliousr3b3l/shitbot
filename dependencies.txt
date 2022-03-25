@@ -1,0 +1,4 @@
+All of these are installeable using "pip3"
+
+discord.py
+python-dotenv
